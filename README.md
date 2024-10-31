@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="spotify-clone-app-logo.png" width="auto" height="90" alt="spotify-clone-app">
+  <img src="spotify-clone-app-logo.png" width="auto" height="90" alt="Spotify "Music Pro"">
 <br>
 <br>
 Spotify clone app
