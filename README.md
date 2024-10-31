@@ -7,7 +7,7 @@ Spotify "Music Pro
 </h1>
 
 <p align="center">Um web app clone do spotify feito em ReactJS, utiliza a API do Spotify para obtenção e manipulação de dados como playlists, músicas e artistas favoritas do usuário
-<br/><br/><a align="center" href="https://tsprestes-spotifycloneapp.netlify.com" target="_blank"></a>
+<br/><br/><a align="center" href="" target="_blank"></a>
 </p>
 
 # 📋 Índice
@@ -23,7 +23,7 @@ Spotify "Music Pro
 
 ## 🎨 Telas
 
-<img src="spotify-clone-app-screenshots.jpg" alt="spotify-clone-app">
+<img src="Spotify Music Pro screenshots.jpg" alt="spotify-clone-app">
 
 ## 📃 Sobre o projeto
 
