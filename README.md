@@ -3,7 +3,7 @@
   <img src="spotify-clone-app-logo.png" width="auto" height="90" alt="Spotify "Music Pro"">
 <br>
 <br>
-Spotify clone app
+Spotify "Music Pro
 </h1>
 
 <p align="center">Um web app clone do spotify feito em ReactJS, utiliza a API do Spotify para obtenção e manipulação de dados como playlists, músicas e artistas favoritas do usuário
